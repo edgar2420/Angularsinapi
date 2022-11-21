@@ -1,0 +1,17 @@
+body{
+  margin: -8px;
+  padding: 0;
+}
+.pie{
+  text-align: center;
+  color: black;
+  font-size: 40px;
+  font-family: monospace;
+}
+.banner{
+  width: 100%;
+  height: 145px;
+  float: left;
+  background:rgb(223, 201, 100) ;
+
+}
